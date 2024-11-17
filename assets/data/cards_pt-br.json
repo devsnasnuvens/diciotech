@@ -1,6 +1,11 @@
 {
   "cards": [
     {
+      "title": "Teste",
+      "tags": ["Conceito"],
+      "description": "Teste é uma simplificação de ponto(s) específicos de algum sistema ou comportamento que estamos tentando entender. Na programação, usamos abstrações o tempo todo. Isso significa que não precisamos entender todos os detalhes técnicos profundos para escrever código - como o funcionamento interno de um computador. Em vez disso, podemos usar ideias mais simples para criar nossos programas."
+    },
+    {
       "title": "Abstração",
       "tags": ["Conceito"],
       "description": "Abstração é uma simplificação de ponto(s) específicos de algum sistema ou comportamento que estamos tentando entender. Na programação, usamos abstrações o tempo todo. Isso significa que não precisamos entender todos os detalhes técnicos profundos para escrever código - como o funcionamento interno de um computador. Em vez disso, podemos usar ideias mais simples para criar nossos programas."
